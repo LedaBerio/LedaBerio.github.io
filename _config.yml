@@ -5,15 +5,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is NOT reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
 # Site Settings
 locale                   : "en-US"
-title                    : "Leda Berio / Website under construction"
+title                    : "Leda Berio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Researcher in Philosophy of Cognition, Language and Feminism."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Leda Berio"
+description              : &description "Researcher in Cognition, Language and Feminism."
+url                      : https://ledaberio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ledaberio/ledaberio.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +64,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +87,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leda Berio"
-  avatar           : "profile2.png"
-  bio              : "Researcher in Philosophy of Cognition, Language and Feminism."
-  location         : "Duesseldorf, Germany"
-  employer         : "Heinrich Heine Universitaet"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  name             : "Kurt Erbach"
+  avatar           : "profile.png"
+  bio              : "Philosopher"
+  location         : "Dusseldorf, Germany"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.de/citations?user=lnUA6aIAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
@@ -95,20 +103,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "LedaBerio"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-8010-2266"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "kerbach2"
   vine             :
   weibo            :
   xing             :
