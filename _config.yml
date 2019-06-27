@@ -94,8 +94,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=lnUA6aIAAAAJ&hl=en"
-  email            :
-  researchgate     : ""
+  email            : "name.surname@hhu.de"
+  researchgate     : "https://www.researchgate.net/profile/Leda_Berio"
   uri              :
   bitbucket        :
   codepen          :
@@ -116,7 +116,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "kerbach2"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
