@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Erbach, K. and Berio, L. “Readings of Plurals and Common Ground" 
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019
+venue: 'In E. Pacuit and J. Sikos (eds). Special Volume of Lecture notes in Computer Science, Springer. Forthcoming'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Erbach, K. and Berio, L. (2019). &quot;Readings of Plurals and Common Ground.&quot; <i> Lecture notes in Computer Science </i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
