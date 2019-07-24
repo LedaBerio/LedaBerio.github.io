@@ -1,17 +1,14 @@
----
-title: "Readings of Plurals and Common Ground"
+title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-1
-excerpt: 'Collaboration with Kurt Erbach. Discussion of plural readings in a common ground framework'
-date: 2019
-venue: 'Special Volume of Lecture notes in Computer
-Science'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Erbach, Kurt and Berio, Leda. (2019). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-[Forthcoming] Collaboration with Kurt Erbach. Discussion of plural readings in a common ground framework
+This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Erbach, Kurt and Berio, Leda. (2019) <i>'Special Volume of Lecture notes in Computer
-Science'</i> Forthcoming
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
