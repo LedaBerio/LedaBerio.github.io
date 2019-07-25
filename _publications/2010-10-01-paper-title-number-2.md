@@ -7,8 +7,8 @@ excerpt: 'This paper connects the issue of the influence of language on conceptu
 date: 2019-07-18
 venue: 'Proceedings of COgnitiveStructures Conference, Duesseldorf 2017'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Berio, Leda. (2019). &quot;Language relativity and flexibility of mental representations:  color terms in a frame-based analysis .&quot; <i>Proceedings of COST2016 Conference, Heinrich-Heine-Universität Düsseldorf. Forthcoming.</i>. 1(2).'
 ---
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Berio, L. (2019). "Language relativity and flexibility of mental representations: color terms in a frame-based analusis" <i>Proceedings of COST2016 Conference, Heinrich-Heine-Universität Düsseldorf forthcoming.</i>.
+Recommended citation: Berio, L. (2019). "Language relativity and flexibility of mental representations: color terms in a frame-based analysis" <i>Proceedings of COST2016 Conference, Heinrich-Heine-Universität Düsseldorf. Forthcoming.</i>.
