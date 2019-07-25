@@ -1,33 +1,14 @@
 ---
-title: "Readings of Plurals and Common Ground"
+title: "Language relativity and flexibility of mental representations:
+color terms in a frame based analysis"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper asks two questions: (i) In an ambiguous context,
-what is the interpretation of a sentence like The men wrote musicals?
-(ii) How can we succinctly characterize the dierences between readings
-that an a sentence has in an ambiguous context, versus readings made
-available in a specialized context, and those available only because of
-shared knowledge. While these questions have received much attention, e.g.
-[1], [9], [10], [11], [20], [21], [22], [23], [24], [26] i.a., the number of readings
-such a sentence has in an ambiguous context remains controversial, as is
-the availability of additional readings, and the mean by which speakers
-become attuned to readings in a given context. To answer the rst question
-we conducted an online study where participants evaluated the truth
-value of sentences designed to test the meaning of those like The men
-wrote musicals. Results suggest that such sentences get a double cover
-interpretation (i.e. an interpretation in terms of a relation between sets
-of individuals, rather than a relation strictly between atomic individuals)
-in an ambiguous context. We couch these results and the discussion
-on the availability of other readings in terms of a bipartite Common
-Ground, where available readings are in the Immediate Common Ground,
-and other readings can be made available via knowledge in the General
-Common Ground, thereby answering the second question.'
+excerpt: 'This paper connects the issue of the influence of language on conceptual representations, known as Linguistic Relativity, with some issues pertaining to concepts’ structure and retrieval. In what follows, I present a model of the relation between linguistic information and perceptual information in concepts using frames as a format of mental representation, and argue that this model not only accommodates the empirical evidence presented by the linguistic relativity debate, but also sheds some light on answered questions regarding conceptual representations’ structure. A fundamental assumption is that mental representations can be conceptualised as complex functional structures whose components can be dynamically and flexibly recruited depending on the tasks at hand; the components include linguistic and non-linguistic elements. This kind of model allows for the representation of the interaction between linguistic and perceptual information and accounts for the variable influence that color labels have on non-linguistic tasks. The paper provides some example of strategy shifting and flexible recruitment of linguistic information available in the literature and explains them using frames.'
 date: 2019-07-18
 venue: 'Proceedings of COgnitiveStructures Conference, Duesseldorf 2017'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Erbach, K. and Berio, L. (2019). &quot;Readings of Plurals and Common Ground.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Berio, Leda. (2019). &quot;Language relativity and flexibility of mental representations:  color terms in a frame-based analysis .&quot; <i>Proceedings of COST2016 Conference, Heinrich-Heine-Universität Düsseldorf. Forthcoming.</i>. 1(2).'
 ---
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Erbach, K. and Berio, L.(2019). "Readings of Plurals and Common Ground" <i>In E. Pacuit and J. Sikos (eds). Special Volume of Lecture notes in Computer
-Science, Springer. Forthcoming</i>.
+Recommended citation: Berio, L. (2019). "Language relativity and flexibility of mental representations: color terms in a frame-based analysis" <i>Proceedings of COST2016 Conference, Heinrich-Heine-Universität Düsseldorf. Forthcoming.</i>.
