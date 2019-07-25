@@ -31,12 +31,6 @@ Education
    * Supervisor: Prof. Alessandro Zucchi, University of Milan
 
 
-Work experience
-======
-
-
-
-
 Awards
 ======
 * 2016-2019 Fully funded PhD position, Heinrich Heine University
@@ -60,11 +54,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -72,6 +61,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic service and social service
 ======
-* Currently signed in to 43 different slack teams
+* Head organizer, Workshop; Reference from an Interdisciplinary Perspective ,November 2017, Heinrich Heine University Düsseldorf
+* Member of the Organizing Team, Weekly CRC Colloquium, 2018-2019, Heinrich Heine University Düsseldorf
+* Assistant in the ERP lab, 2018-2019, guided by Dr. Natalja Beckermeier, Heinrich Heine University Düsseldorf
+* Member of the Organizing Team, Weekly Master Class for SfB PhD students, 2017, Heinrich Heine University Düsseldorf
+* 2018, December Lecture for High School students (Liceo Scientifico La Spezia, Domodossola, Italy), Philosophy and Cognitive Science (Filosofia e Scienze Cognitive)
+* Conversational Partner for the Red Cross project to teach German as L2 in refugee camps (2017)
+* Italian Teacher for immigrants and refugees at Scuola di Pinocchio and Cooperativa Cielo e Terra, Legnano, Italy (2015-2016)
+* Private Tutor for Italian, English, Philosophy and History
