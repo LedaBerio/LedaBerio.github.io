@@ -1,8 +1,7 @@
 ---
-title: "Assistant Lecturer: Relevance Theory Seminar (Winter Semester 2016)"
+title: "Relevance Theory Seminar (Winter Semester 2016)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
 venue: "HHU, Philosophy Department"
 location: "Duesseldorf, Germany"
 ---
