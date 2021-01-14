@@ -18,7 +18,7 @@ My work in collaboration with <a href="https://warwick.ac.uk/fac/soc/philosophy/
 
 The project "Race and Rasse: negotiating a fraught German word", is funded by the Bürgeruniversität (HHU). Ours is a conceptual engineering project, designed with Benedict Kenyah-Damptey, on the use of the term "race" and "race talk" in the German socio-politica landscape. 
 
-With my PhD supervisor Prof. Gottfried Vosgerau, I have worked on modeling conversation and in how partecipants do a good-enough job at understanding each other. Our joint paper investigates the mechanisms at play when establishing Common Ground with other speakers. I collaborate on a series of linguistics topic, including plurals and mass-count shifts, with my partner <a href="https://kerbach2.github.ioKurt">  Erbach </a>.
+With my PhD supervisor Prof. Gottfried Vosgerau, I have worked on modeling conversation and in how partecipants do a good-enough job at understanding each other. Our joint paper investigates the mechanisms at play when establishing Common Ground with other speakers. I collaborate on a series of linguistics topic, including plurals and mass-count shifts, with my partner <a href="https://kerbach2.github.io"> Kurt Erbach </a>.
 
 
 
