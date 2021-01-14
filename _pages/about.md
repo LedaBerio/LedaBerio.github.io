@@ -10,11 +10,11 @@ redirect_from:
 
 I am a researcher in Philosophy based in Germany. My interests mostly revolve around the intersection between cognition, language and culture: in particular, I am interested in how acquiring language shapes our cognitive tools to navigate the social world and how culture and social interaction bring upon the cognitive changes that make us uniquely human. This includes investigating mechanisms at play in social cognition as well as looking at how our concepts related social groups (e.g. gender, race) come about. 
 
-Currently, I have a postdoc position at Heinrich Heine University (HHU), in Düsseldorf. I am also a collaborator to the project "The Communicative Mind" at the University of Warwick, UK. Finally, I co-coordinate, with Daniel James, the project "Race: negotiating a fraught German term". 
+Currently, I have a postdoc position at Heinrich Heine University (HHU), in Düsseldorf. I am also a collaborator to the project <a href="https://warwick.ac.uk/fac/soc/philosophy/research/currentresearch/communicativemind/"> The Communicative Mind </a> at the University of Warwick, UK. Finally, I co-coordinate, with Daniel James, the project "Race: negotiating a fraught German term". 
 
 In my PhD thesis I have formulated on account of how language acquisition boosts our false belief reasoning skills. I am currently working on an expansion of this work in my own postdoc project, focusing on the role of schemata and linguistic input in social cognition.
 
-My work in collaboration with "The Communicative Mind" focuses on the role of culture on cognition. In particular, Richard Moore and I are working on a series of papers on enculturation studies and their potential to contribute to the debate on the impact of human culture on cognitive skills.
+My work in collaboration with <a href="https://warwick.ac.uk/fac/soc/philosophy/research/currentresearch/communicativemind/"> The Communicative Mind </a> focuses on the role of culture on cognition. In particular, Richard Moore and I are working on a series of papers on enculturation studies and their potential to contribute to the debate on the impact of human culture on cognitive skills.
 
 The project "Race and Rasse: negotiating a fraught German word", is funded by the Bürgeruniversität (HHU). Ours is a conceptual engineering project, designed with Benedict Kenyah-Damptey, on the use of the term "race" and "race talk" in the German socio-politica landscape. 
 
