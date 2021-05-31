@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in Philosophy based in Germany. My interests mostly revolve around the intersection between cognition, language and culture: in particular, I am interested in how acquiring language shapes our cognitive tools to navigate the social world and how culture and social interaction bring upon the cognitive changes that make us uniquely human. This includes investigating mechanisms at play in social cognition as well as looking at how our concepts related social groups (e.g. gender, race) come about. 
+I am a researcher in Philosophy based in Germany. My interests mostly revolve around the intersection between cognition, language and culture: in particular, I am interested in how acquiring language shapes our cognitive tools to navigate the social world, and in how culture and social interaction bring upon the cognitive changes that make us uniquely human. This includes investigating mechanisms at play in social cognition as well as looking at how our concepts related to social groups (e.g. gender, race) come about. 
 
 Currently, I have a postdoc position at Heinrich Heine University (HHU), in Düsseldorf. I am also a collaborator to the project <a href="https://warwick.ac.uk/fac/soc/philosophy/research/currentresearch/communicativemind/"> The Communicative Mind </a> at the University of Warwick, UK. Finally, I co-coordinate, with Daniel James, the project "Race: negotiating a fraught German term". 
 
